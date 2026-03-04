@@ -1,5 +1,6 @@
 # Come dividere in un attimo il montepremi della Tombola
 Risposta breve: scaricando l'app CalcolaTombola!
+
 CalcolaTombola è l’app gratuita che ti permette di suddividere all’istante il montepremi della Tombola, inserendo solo l’informazione sul numero di cartelle acquistate e sul prezzo a cartella.
 
 Ma come funziona la distribuzione del montepremi?
