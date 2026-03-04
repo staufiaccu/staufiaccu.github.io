@@ -6,7 +6,7 @@ CalcolaTombola è l’app gratuita che ti permette di suddividere all’istante 
 Ma come funziona la distribuzione del montepremi?
 Non esiste un metodo ufficiale, niente formule scolpite nella pietra, ma la suddivisione del montepremi della Tombola segue tre grandi criteri, adottati nella maggior parte dei giochi a premio.
 
-# Metodo Lineare
+Metodo Lineare
 Viene mantenuta una differenza costante tra i premi. Ad esempio, €0.50 per l'ambo, €1.00 per il terno, €1.50 per la quaterna e via dicendo.
 È il metodo ideale per chi desidera una ripartizione più equilibrata del montepremi.
 
